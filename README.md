@@ -1,7 +1,7 @@
 # Sentiment Analysis: TF-IDF & SBERT Embeddings with Neural Networks
 
 Predicting sentiment (positive/negative) from customer reviews using advanced NLP techniques. This project demonstrates an end-to-end applied machine learning workflow including data cleaning, feature engineering, embedding generation, neural network model training, hyperparameter tuning, evaluation, and optional interactive application deployment.
-
+A detailed Project report is included in the reports folder
 ---
 
 ## Table of Contents
@@ -16,7 +16,7 @@ Predicting sentiment (positive/negative) from customer reviews using advanced NL
 - Optional Interactive Demo
 - Business / Project Insights
 - Future Work
-- How to Run
+
 
 ---
 
@@ -138,10 +138,3 @@ Key Observations:
 - Integrate explainability (e.g., SHAP) to highlight words influencing sentiment  
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone <repo-url>
-cd <repo-name>
